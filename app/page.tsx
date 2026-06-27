@@ -16,7 +16,7 @@ export default function HomePage() {
         <div className="absolute inset-0" style={{ backgroundColor: "rgba(111,78,55,0.6)" }} />
         <div className="relative z-10 px-6 max-w-3xl mx-auto">
           <h1 className="text-5xl md:text-6xl font-bold mb-6" style={{ color: "#FAF6F0" }}>
-            O'zbekiston to'qima bozori
+            O&apos;zbekiston to&apos;qima bozori
           </h1>
           <p className="text-xl mb-10 opacity-90" style={{ color: "#FAF6F0" }}>
             Chit mato, atlas, gilam va sitsa — bir platformada. Ulguji narxlarda.
@@ -26,7 +26,7 @@ export default function HomePage() {
             className="inline-block px-10 py-4 text-lg font-semibold rounded-sm transition-opacity hover:opacity-85"
             style={{ backgroundColor: "#C8A24B", color: "#FAF6F0" }}
           >
-            Katalogni ko'rish
+            Katalogni ko&apos;rish
           </Link>
         </div>
       </section>
@@ -41,11 +41,11 @@ export default function HomePage() {
             Ishonchli B2B platforma
           </h2>
           <p className="text-lg leading-relaxed mb-4 opacity-80" style={{ color: "#6F4E37" }}>
-            LolaMarket — O'zbekistondagi to'qima ishlab chiqaruvchilar va ulgurji xaridorlarni bog'lovchi
+            LolaMarket — O&apos;zbekistondagi to&apos;qima ishlab chiqaruvchilar va ulgurji xaridorlarni bog&apos;lovchi
             platforma. Biz sifatli mahsulotni eng qulay narxda taklif qilamiz.
           </p>
           <p className="text-lg leading-relaxed opacity-80" style={{ color: "#6F4E37" }}>
-            10 yildan ortiq tajriba, 200+ ishlab chiqaruvchi sherik, butun O'zbekiston bo'ylab yetkazib berish.
+            10 yildan ortiq tajriba, 200+ ishlab chiqaruvchi sherik, butun O&apos;zbekiston bo&apos;ylab yetkazib berish.
           </p>
         </div>
         <div className="relative h-80 rounded-sm overflow-hidden">

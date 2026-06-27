@@ -28,7 +28,7 @@ export default function ProductCard({ product }: { product: Product }) {
             {product.description}
           </p>
           <p className="text-xl font-bold" style={{ color: "#6F4E37" }}>
-            {product.price.toLocaleString("uz-UZ")} so'm
+            {product.price.toLocaleString("uz-UZ")} so&apos;m
             <span className="text-sm font-normal opacity-60"> / {product.unit}</span>
           </p>
         </div>
